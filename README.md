@@ -22,7 +22,7 @@ Inicialmente vamos usar o Pandas para tablular todos os logs e podermo então ge
 * Tamanho da resposta
 * Tempo da resposta
 
-Através da extração de parâmetros da URL ainda temos os seguintes campos relevantes entre muitos outros parâmetros possíveis:
+Através da [extração de parâmetros da URL](https://stackoverflow.com/questions/33288420/extracting-url-parameters-into-pandas-dataframe) ainda temos os seguintes campos relevantes entre muitos outros parâmetros possíveis:
 
 * ID de usuário único
 * Layer
