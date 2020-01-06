@@ -4,7 +4,7 @@ Conjunto de scripts e notebooks para analisar logs do GeoServer
 
 ## Motivação
 
-Recebemos frequentemente logos dos Servidores de GeoServer e precisamos fazer analises quantitativas e qualitativas para tomarmos decisões sobre planejamento de infraestrutura e novas camadas.
+Recebemos frequentemente logs dos Servidores de GeoServer e precisamos fazer analises quantitativas e qualitativas para tomarmos decisões sobre planejamento de infraestrutura e novas camadas.
 
 ## Arquivos de log Recebidos
 
